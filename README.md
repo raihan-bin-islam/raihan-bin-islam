@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me https://www.linkedin.com/in/raihan-bin-islam/
-- Works Under Organization (YY Ventures): [dhaka.impact-hub.com](https://dhaka.impacthub.net/) , [yunus-centre](https://yunus-centre.netlify.app/)
+- Works Under Organization (YY Ventures): [dhaka.impact-hub.com](https://dhaka.impacthub.net/) , [yunus-centre.netlify.app](https://yunus-centre.netlify.app/)
